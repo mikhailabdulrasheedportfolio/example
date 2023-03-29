@@ -1,0 +1,9 @@
+body{
+    background-color: yellow;
+}
+div.colum-gap{
+    column-count: 2;
+    column-gap: 40px;
+    column-rule-style: solid;
+    column-rule-color: green;
+}
